@@ -47,7 +47,7 @@ A simplified order matching engine built using GO and MySQL. Inspired by stock e
 
 ###  Clone and Set Up
 ```bash
-git clone https://github.com/himsapphire/GOLANG_ORDER_MATCHING_SYSTEM.git
+git clone https://github.com/00SnowFlake/GOLANG_ORDER_MATCHING_SYSTEM.git
 cd GOLANG_ORDER_MATCHING_SYSTEM
 go mod tidy
 ```
@@ -177,4 +177,4 @@ Feel free to reach out for improvements or questions:
 
 Author: Anjali Gupta
 
-GitHub: https://github.com/himsapphire
+GitHub: https://github.com/00SnowFlake

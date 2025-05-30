@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/himsapphire/GOLANG_ORDER_MATCHING_SYSTEM/db"
-	"github.com/himsapphire/GOLANG_ORDER_MATCHING_SYSTEM/models"
+	"github.com/00SnowFlake/GOLANG_ORDER_MATCHING_SYSTEM/db"
+	"github.com/00SnowFlake/GOLANG_ORDER_MATCHING_SYSTEM/models"
 )
 
 func MatchOrder(order models.Order) error {
