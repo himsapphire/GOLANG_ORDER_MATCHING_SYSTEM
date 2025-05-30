@@ -10,8 +10,8 @@ import (
 
 func main() {
     // Initialize DB
-    // dsn := "root:password@tcp(127.0.0.1:3306)/order_matching?parseTime=true"
-	dsn := "root:#Anjali123@tcp(127.0.0.1:3306)/order_matching?parseTime=true"
+    dsn := "root:password@tcp(127.0.0.1:3306)/order_matching?parseTime=true"
+	
 
     db.InitDB(dsn)
 
